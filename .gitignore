@@ -26,3 +26,5 @@ fp-info-cache
 *.csv
 
 gas/gas-backups/
+
+*auto_saved_files*
